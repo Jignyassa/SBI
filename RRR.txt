@@ -1,0 +1,40 @@
+Emmail=ranjanjava7@gmail.com
+pass=Ranjan@8249
+username=Jignyassa
+devopsexp1@gmail.com
+Qwerty@1993
+
+git hub access token issue
+https://<githubaccestoken>@github.com/<username>/<repositoryname>.com
+
+E:\SpringBoot
+
+Oracle Id and Password
+========================
+UserName =pravakarray12@gmail.com
+Password =Qwerty@1993
+===============================
+Jenkins 
+===========
+username = Rashmi1993
+passwd = Rashmi1993
+
+ubuntu-jenkins
+===============
+username = Rashmi8249
+password = Rashmi8249
+
+Ansible
+=========
+passwd = admin1993
+
+
+ashoksir_Git Details
+=======================
+url ::: https://github.com/ashokitschool/ansible_playbooks_samples
+
+Docker account
+=========================
+email: ranjanjava7@gmail
+username : Rashmi8249
+password : Qwerty8249
